@@ -126,7 +126,7 @@ except:
 		elif race == 'sorcier':
 			player = sorcier(pseudo)
 			attaque1 = "boule de feu"
-			attaque2 = "glaciationg"
+			attaque2 = "glaciation"
 			g = 2
 		elif race == 'templier':
 			player = templier(pseudo)
